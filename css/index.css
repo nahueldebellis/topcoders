@@ -1,0 +1,22 @@
+html{
+    margin: 0 auto;
+    padding:0 auto;
+}
+@font-face {
+    font-family: imperfect;
+    src: url(imperfecta.ttf);
+    font-weight: bold;
+}
+.incident{
+    margin-bottom:10px;
+    padding:10px;
+    background-color: gray;
+}
+.incident:hover{
+    cursor: pointer;
+}
+body{
+    background-color:black;
+    font-family: imperfect;
+    color:white;
+}

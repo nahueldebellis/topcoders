@@ -1,0 +1,7 @@
+Sistema Argentino de Cortes de Transito
+Este mini proyecto trata de informar los cortes en los distintos puntos de la ciudad.
+Toda mi vida he visto a mis padres ya a familiares y a otras personas intentar planificar el 
+recorrido en auto que tienen que realizar. Esta idea busca informar en estos momentos los distintos corte que existan, asi poder evitar estos lugares y buscar rutas alternas.
+La idea es a traves de la api de transito del gobierno de la ciudad recibir la descripcion, el titulo y la ubicacion del incidente.
+Por ahora solo mostrara la calle, el titulo y una descripcion del incidente. En un futuro se espera ampliar esto y poder mostrar la ubicacion en el mapa de cada incidente, ya que la api misma nos da las coordenadas de donde a donde se produce el corte.
+Nahuel De Bellis.
